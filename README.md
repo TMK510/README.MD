@@ -1,8 +1,8 @@
-# H1 Hi 👋 My name is Minh Khoa
-===
-# h3 🌍  I'm based in Viet Nam
-# h3 ✉️  You can contact me at learningwed@gmail.com or thachminhkhoa510@gmail. com
-# h3 🧠  I'm learning C++
+# Hi 👋 My name is Minh Khoa
+---
+### 🌍  I'm based in Viet Nam
+### ✉️  You can contact me at learningwed@gmail.com or thachminhkhoa510@gmail. com
+###🧠  I'm learning C++
 ---
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
